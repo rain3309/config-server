@@ -1,0 +1,4 @@
+com:
+    cloud:
+        msg:
+            config: I am the git Configuration for dev environment
